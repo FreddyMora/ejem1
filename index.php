@@ -7,7 +7,7 @@
     <meta name="description" content="base de datos mysql">
     <meta name="keywords" content="website mysql">
     <link rel="stylesheet" type="text/css" href="css/style.css">
-    <!-- modernizr enables HTML5 elements and feature detects -->
+    <!-- modernizr enables HTML5 elements and feature detects prueba virtual-->
     
   </head>
    
