@@ -1,8 +1,4 @@
-# ejem1
-bases de datos mysql ejemplo contactos
-probando...
+FORMULARIO DE CONTACTOS 
+CON PHP Y MYSQL 
 
 
-esta funcionando parece ...   okis ... okis ....
-
-yaaaaaaaaaa!!!!!!!!!!!!!!
